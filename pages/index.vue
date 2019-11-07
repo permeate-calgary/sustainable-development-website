@@ -1,15 +1,9 @@
 <template>
   <div class="container">
-		<ul>
-			<li><nuxt-link to="/backmatter">backmatter</nuxt-link></li>
-			<li><nuxt-link to="/energy-sector">energy-sector</nuxt-link></li>
-			<li><nuxt-link to="/food-security">food-security</nuxt-link></li>
-			<li><nuxt-link to="/frontmatter">frontmatter</nuxt-link></li>
-			<li><nuxt-link to="/housing">housing</nuxt-link></li>
-			<li><nuxt-link to="/index">index</nuxt-link></li>
-			<li><nuxt-link to="/social-services">social-services</nuxt-link></li>
-			<li><nuxt-link to="/transit">transit</nuxt-link></li>
-		</ul>
+		<p>This <em><b>Green New Deal Maximum Program</b></em> is an collection of evidence based, actionable proposals. While this Maximum Program might be politically unfeasible, we hope it can serve as a set a starting point for Green New Deal 'Intermediate Programs'.
+		</p>
+		<!-- or download the pdf-->
+		<p>You can read this report <nuxt-link to="/toc">online</nuxt-link></p>
   </div>
 </template>
 
@@ -19,35 +13,5 @@ export default {
 };
 </script>
 
-<style>
-.container {
-  margin: 0 auto;
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.title {
-  font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
-    'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-  display: block;
-  font-weight: 300;
-  font-size: 100px;
-  color: #35495e;
-  letter-spacing: 1px;
-}
-
-.subtitle {
-  font-weight: 300;
-  font-size: 42px;
-  color: #526488;
-  word-spacing: 5px;
-  padding-bottom: 15px;
-}
-
-.links {
-  padding-top: 15px;
-}
+<style scope>
 </style>
