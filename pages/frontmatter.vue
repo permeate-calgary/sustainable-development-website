@@ -1,4 +1,5 @@
 <template>
+<div class="container">
 <h1 id="summary">Summary</h1>
 <h2 id="official-gnd-websites">Official GND websites</h2>
 <ul>
@@ -277,4 +278,13 @@
 </ul>
 <h2 id="dont-repeat-mistakes">Don’t repeat mistakes</h2>
 <p>A Green New Deal must be done in such a way that it doesn’t end up as a new form of colonialism, with huge corporations profiting off of the destruction of the Global South for the sake of vital minerals for green energy technology: <a href="https://www.independent.co.uk/voices/green-new-deal-alexandria-ocasio-cortez-corbyn-colonialism-climate-change-a8899876.html"><span class="underline">article</a>.</p>
+</div>
 </template>
+
+<script>
+export default {
+};
+</script>
+
+<style>
+</style>

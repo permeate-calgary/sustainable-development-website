@@ -1,4 +1,5 @@
 <template>
+<div class="container">
 <h1 id="energy-sector">Energy Sector</h1>
 <h2 id="introduction">Introduction</h2>
 <p>Fossil fuels are the primary cause of climate change. While sustainable energy generation exists, ending fossil fuel industry strangleholds, expanding renewable energy generation, ensuring a Just Transition for workers are the primary hurdles sustainable energy development. These measures require not only infrastructural changes, but corporate restructuring and employment transition for energy sector workers. The following data and proposals of our Maximum GND emphasize how this is not only feasible in, but beneficial for, our current economic and social paradigm.</p>
@@ -487,4 +488,13 @@
 <li id="fn38" role="doc-endnote"><p><a href="https://www.zotero.org/google-docs/?cj5eyf"> Cooling et al.</a><a href="#fnref38" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
 </section>
+</div>
 </template>
+
+<script>
+export default {
+};
+</script>
+
+<style>
+</style>

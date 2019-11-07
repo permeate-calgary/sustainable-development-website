@@ -1,4 +1,5 @@
 <template>
+<div class="container">
 <h1 id="housing">Housing</h1>
 <h2 id="introduction">Introduction</h2>
 <p>Housing is an essential human right, one that is neglected in Canada. This section of the Maximum GND focuses on ensuring sustainable, affordable access to housing for everyone. The following data and proposals demonstrate that ecological well-being and housing security are common goals and need to be emphasized in any complete GND.</p>
@@ -224,4 +225,13 @@
 <li id="fn23" role="doc-endnote"><p><a href="https://www.zotero.org/google-docs/?GTcmqQ"> “Housing &amp; Homelessness.”</a><a href="#fnref23" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
 </section>
+</div>
 </template>
+
+<script>
+export default {
+};
+</script>
+
+<style>
+</style>

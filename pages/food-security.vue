@@ -1,4 +1,5 @@
 <template>
+<div class="container">
 <h1 id="food-security-land-conservation">Food Security &amp; Land Conservation</h1>
 <h2 id="introduction">Introduction</h2>
 <p>Food security is paramount with the growing threat of climate change. We must ensure that local sustainable food production provides egalitarian access to nutritious food. Our Maximum Program addresses food security, community empowerment, and conservation as a unified subject rather than as separate issues. We include proposals that are both locally specific and widely applicable so that these ideas may be replicated and adapted to local conditions.</p>
@@ -708,4 +709,13 @@
 <li id="fn90" role="doc-endnote"><p><a href="https://www.zotero.org/google-docs/?RO3hrS"> FAO.</a><a href="#fnref90" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
 </section>
+</div>
 </template>
+
+<script>
+export default {
+};
+</script>
+
+<style>
+</style>

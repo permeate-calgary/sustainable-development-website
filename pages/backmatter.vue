@@ -1,4 +1,5 @@
 <template>
+<div class="container">
 <h2>Engaging Experts</h2>
 <ol>
 	<li>We need to identify local experts in each of the topics listed above. We need to integrate them into meetings and the organization as much as possible, so that they can answer questions at town halls, provide reliable information, and guide the organization to achieving realistic, immediate goals.</li>
@@ -17,4 +18,13 @@
 	<li>Grievances will be documented</li>
 	<li>One diva, one mic</li>
 </ol>
+</div>
 </template>
+
+<script>
+export default {
+};
+</script>
+
+<style>
+</style>

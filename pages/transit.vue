@@ -1,4 +1,5 @@
 <template>
+<div class="container">
 <h1 id="transit">Transit</h1>
 <h2 id="introduction">Introduction</h2>
 <p>Expanding public transit is an integral component of climate action. Not only does public transit reduce carbon emissions, it also reduces road maintenance and increases economic activity. The following data and proposals in the Transit section of the Maximum GND seek to optimize these effects in YYC and across Canada.</p>
@@ -267,4 +268,13 @@
 <li id="fn28" role="doc-endnote"><p><a href="https://www.zotero.org/google-docs/?mMk3U0"> Jones, “Why Britain’s Trains Don’t Run on Time: Capitalism.”</a><a href="#fnref28" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
 </section>
+</div>
 </template>
+
+<script>
+export default {
+};
+</script>
+
+<style>
+</style>
