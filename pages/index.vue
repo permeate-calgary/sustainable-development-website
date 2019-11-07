@@ -1,20 +1,21 @@
 <template>
   <div class="container">
 		<ul>
-			<nuxt-link to="/backmatter">backmatter</nuxt-link>
-			<nuxt-link to="/energy-sector">energy-sector</nuxt-link>
-			<nuxt-link to="/food-security">food-security</nuxt-link>
-			<nuxt-link to="/frontmatter">frontmatter</nuxt-link>
-			<nuxt-link to="/housing">housing</nuxt-link>
-			<nuxt-link to="/index">index</nuxt-link>
-			<nuxt-link to="/social-services">social-services</nuxt-link>
-			<nuxt-link to="/transit">transit</nuxt-link>
+			<li><nuxt-link to="/backmatter">backmatter</nuxt-link></li>
+			<li><nuxt-link to="/energy-sector">energy-sector</nuxt-link></li>
+			<li><nuxt-link to="/food-security">food-security</nuxt-link></li>
+			<li><nuxt-link to="/frontmatter">frontmatter</nuxt-link></li>
+			<li><nuxt-link to="/housing">housing</nuxt-link></li>
+			<li><nuxt-link to="/index">index</nuxt-link></li>
+			<li><nuxt-link to="/social-services">social-services</nuxt-link></li>
+			<li><nuxt-link to="/transit">transit</nuxt-link></li>
 		</ul>
   </div>
 </template>
 
 <script>
 export default {
+	layout: 'article',
 };
 </script>
 

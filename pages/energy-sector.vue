@@ -408,19 +408,19 @@
 <h2 id="appendix-institutions-doing-sustainable-energy-rd">Appendix: Institutions doing Sustainable Energy R&amp;D</h2>
 <ul>
 <li>
-<p>Fraunhofer Institute (Germany): A multidisciplinary research institute in Germany tackling many modern problems including transitioning to renewable energy sources. Has separate institutes specifically for solar and wind energy. <a href="https://www.fraunhofer.de/en/research/fields-of-research/energy-resources/renewable-energy.html"><span class="underline">https://www.fraunhofer.de/en/research/fields-of-research/energy-resources/renewable-energy.html</a><br />
-<a href="https://www.ise.fraunhofer.de/en.html"><span class="underline">https://www.ise.fraunhofer.de/en.html</a><br />
-<a href="https://www.iwes.fraunhofer.de/en.html"><span class="underline">https://www.iwes.fraunhofer.de/en.html</a></p>
+<p>Fraunhofer Institute (Germany): A multidisciplinary research institute in Germany tackling many modern problems including transitioning to renewable energy sources. Has separate institutes specifically for solar and wind energy. <a href="https://www.fraunhofer.de/en/research/fields-of-research/energy-resources/renewable-energy.html">https://www.fraunhofer.de/en/research/fields-of-research/energy-resources/renewable-energy.html</a><br />
+<a href="https://www.ise.fraunhofer.de/en.html">https://www.ise.fraunhofer.de/en.html</a><br />
+<a href="https://www.iwes.fraunhofer.de/en.html">https://www.iwes.fraunhofer.de/en.html</a></p>
 </li>
 <li>
-<p>National Renewable Energy Laboratory (US): US based lab of the US Department of Energy dedicated to renewable energy technologies. <a href="https://www.nrel.gov/research/"><span class="underline">https://www.nrel.gov/research/</a></p>
+<p>National Renewable Energy Laboratory (US): US based lab of the US Department of Energy dedicated to renewable energy technologies. <a href="https://www.nrel.gov/research/">https://www.nrel.gov/research/</a></p>
 </li>
 <li>
 <p>Centre for Renewable Energy Systems Technology at Loughborough University (UK): A renewable energy research and development lab from the UK out of Loughborough University.<br />
-<a href="https://www.lboro.ac.uk/research/crest/research/"><span class="underline">https://www.lboro.ac.uk/research/crest/research/</a></p>
+<a href="https://www.lboro.ac.uk/research/crest/research/">https://www.lboro.ac.uk/research/crest/research/</a></p>
 </li>
 <li>
-<p>UK Energy Research Centre (UKERC): The UK Energy Research Centre (UKERC) carries out world-class research into sustainable future energy systems. <a href="http://www.ukerc.ac.uk/about-us.html"><span class="underline">http://www.ukerc.ac.uk/about-us.html</a></p>
+<p>UK Energy Research Centre (UKERC): The UK Energy Research Centre (UKERC) carries out world-class research into sustainable future energy systems. <a href="http://www.ukerc.ac.uk/about-us.html">http://www.ukerc.ac.uk/about-us.html</a></p>
 </li>
 </ul>
 <h2 id="literature-cited">Literature Cited</h2>
@@ -493,6 +493,7 @@
 
 <script>
 export default {
+	layout: 'article',
 };
 </script>
 

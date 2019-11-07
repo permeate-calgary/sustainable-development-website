@@ -540,6 +540,7 @@
 
 <script>
 export default {
+	layout: 'article',
 };
 </script>
 

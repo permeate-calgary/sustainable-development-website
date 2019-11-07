@@ -23,7 +23,9 @@ export default {
   /*
    ** Global CSS
    */
-  css: [],
+  css: [
+		'~/assets/main.scss'
+	],
   /*
    ** Plugins to load before mounting the App
    */
@@ -31,7 +33,9 @@ export default {
   /*
    ** Nuxt.js modules
    */
-  modules: [],
+  modules: [
+		['nuxt-sass-resources-loader', '~/assets/main.scss']
+	],
   /*
    ** Build configuration
    */

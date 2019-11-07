@@ -194,7 +194,7 @@
 </ol></li>
 </ol>
 <p>**This report covers some of the things already mentioned above but ties them together into a regenerative and circular economic system:<br />
-<a href="https://www.ellenmacarthurfoundation.org/assets/downloads/Cities-and-Circular-Economy-for-Food_280119.pdf"><span class="underline">https://www.ellenmacarthurfoundation.org/assets/downloads/Cities-and-Circular-Economy-for-Food_280119.pdf</a></p>
+<a href="https://www.ellenmacarthurfoundation.org/assets/downloads/Cities-and-Circular-Economy-for-Food_280119.pdf">https://www.ellenmacarthurfoundation.org/assets/downloads/Cities-and-Circular-Economy-for-Food_280119.pdf</a></p>
 <h3 id="local-animal-agriculture">Local Animal Agriculture</h3>
 <p>To ensure sustainable food security in Calgary and Alberta, responsible animal agriculture must be encouraged as part of the GND.</p>
 <ol start="8" type="1">
@@ -714,6 +714,7 @@
 
 <script>
 export default {
+	layout: 'article',
 };
 </script>
 
