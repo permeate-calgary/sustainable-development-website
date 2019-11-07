@@ -14,8 +14,9 @@
 	}
 </script>
 
-<style scope>
+<style>
 	html {
 		font-family: 'Crimson Text', serif;
+		font-size: 1.25em;
 	}
 </style>

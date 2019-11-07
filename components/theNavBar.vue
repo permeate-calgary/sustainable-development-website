@@ -33,6 +33,7 @@
 		flex-direction: row;
 		justify-content: space-between;
 		padding: 2%;
+		color: #224634;
 	}
 	#title-title {
 		font-weight: 900;
