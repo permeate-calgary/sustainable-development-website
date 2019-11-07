@@ -1,4 +1,5 @@
 <template>
+<div class="container">
 <h1 id="social-services">Social Services</h1>
 <h2 id="introduction">Introduction</h2>
 	<p>Climate Action depends on empowered, educated, healthy people. Without access to social services, mobilizing people against climate change will not be successful. Moreover, improving access to social services increases productivity, reduces lost labour time, and decreases healthcare costs through preventative care. With the aim of adapting to climate change and mitigating the negative consequences, we propose the shifting of social service access points to community centers, creating more self-sufficient and self-governed communities. This will help fight climate change in minimally two ways: by empowering people with the necessary skills and community connections to make adapt themselves and their communities to climate change, and by reducing travel time and carbon emissions for accessing social services. Community centers should live up to their name, and truly become the center of a community. With this in mind, we have formulated the Social Services section of the Maximum GND to best serve the people.</p>
@@ -534,6 +535,7 @@
 	<li id="fn44" role="doc-endnote"><p><a href="https://www.zotero.org/google-docs/?TTi5oa"> “China Has Sent 60,000 Soldiers to Plant Trees.”</a><a href="#fnref44" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 	</ol>
 </section>
+</div>
 </template>
 
 <script>
