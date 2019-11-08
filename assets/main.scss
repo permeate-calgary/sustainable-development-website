@@ -12,3 +12,18 @@ html {
 .container {
 	padding: 1%;
 }
+
+a {
+  text-decoration: none;
+  color: $green;
+
+  transition: 0.5s;
+
+
+}
+
+a:hover {
+  box-shadow: 0 2px 0 0 $green;
+}
+
+
