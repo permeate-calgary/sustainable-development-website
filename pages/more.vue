@@ -2,7 +2,7 @@
   <div class="container">
     <h2>More</h2>
 
-      <a href="/">
+      <a href="/yyc_gnd_mp.pdf">
         <h3>Download the Green New Deal (PDF)</h3>
       </a>
 
