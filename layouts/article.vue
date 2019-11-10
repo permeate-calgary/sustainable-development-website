@@ -20,18 +20,6 @@
 		components: {
 			theNavBar
 		},
-    head: () => {
-      return {
-        title: "Calgary's Green New Deal",
-        meta: [
-          {
-            hid: 'description',
-            name: 'description',
-            content: 'Evidence based, ambitious, actionable proposals for the climate crisis and economic crisis: a Green New Deal for Calgary.' 
-          }
-        ]
-      }
-    }
 	}
 </script>
 
