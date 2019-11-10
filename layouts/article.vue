@@ -1,7 +1,14 @@
 <template>
-	<div class="container">
-		<theNavBar/>
-		<nuxt/>
+  <div class="mobile-container">
+  	<div class="container">
+  		<theNavBar/>
+      <div class="article-body">
+    		<nuxt/>
+      </div>
+    <div class="logo-container">
+      <img class="logo-image" src="permeate_logo.png">
+    </div>
+    </div>
 	</div>
 </template>
 

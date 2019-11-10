@@ -1,4 +1,35 @@
 $green: #224634;
+$mobile-breakpoint: 900px;
+
+#top-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 1%;
+  color: #224634;
+
+  span {
+    line-height: 2rem;
+  }
+}
+.title-title {
+  font-weight: 900;
+  font-size: 1.4rem;
+  line-height: 2rem;
+  margin-right: 0.225em;
+}
+
+.title-subtitle {
+  font-size: 1rem;
+  line-height: 2rem;
+}
+
+#nav .nav-item {
+  display: inline-block;
+  margin-right: 0;
+  margin-left: 1.25em;
+  font-weight: 900;
+}
 
 h1 {
 	color: $green;
@@ -11,4 +42,46 @@ html {
 
 .container {
 	padding: 1%;
+}
+
+a {
+  text-decoration: none;
+  color: $green;
+  transition: 0.5s;
+}
+
+a:hover {
+  box-shadow: 0 2px 0 0 $green;
+}
+
+.mobile-container {
+  padding-top: 80px;
+}
+
+@media only screen and (max-width: $mobile-breakpoint) {
+  .title-subtitle {
+    display: block;
+  }
+}
+
+@media only screen and (min-width: $mobile-breakpoint + 1px) {
+  .mobile-container {
+    width: 900px;
+    margin: auto;
+  }
+}
+
+.article-body {
+  max-width: 600px
+}
+
+.logo-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center ;
+}
+
+.logo-image {
+  padding-top: 100px;
+  width: 150px;
 }
