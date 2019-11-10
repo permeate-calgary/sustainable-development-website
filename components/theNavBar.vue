@@ -51,7 +51,6 @@
     methods: {
       toggleMobileNav: function(e) {
         e.preventDefault()
-        console.log(this)
         this.showMobileNav = !this.showMobileNav
       } 
     }
