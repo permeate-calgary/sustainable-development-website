@@ -24,7 +24,7 @@ $mobile-breakpoint: 900px;
   line-height: 2rem;
 }
 
-#nav .nav-item {
+.nav .nav-item {
   display: inline-block;
   margin-right: 0;
   margin-left: 1.25em;
@@ -62,12 +62,18 @@ a:hover {
   .title-subtitle {
     display: block;
   }
+  .full-width {
+    display: none;
+  }
 }
 
 @media only screen and (min-width: $mobile-breakpoint + 1px) {
   .mobile-container {
     width: 900px;
     margin: auto;
+  }
+  .mobile-width {
+    display: none;
   }
 }
 
@@ -84,4 +90,9 @@ a:hover {
 .logo-image {
   padding-top: 100px;
   width: 150px;
+}
+
+.mobile-ruler {
+  width: 100%;
+  border-bottom: 2px solid $green;
 }
