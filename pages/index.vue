@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-	<p>This <em><b>Green New Deal Maximum Program</b></em> is a collection of evidence based, actionable proposals. As a Maximum Program this set of ideas is highly ambitious, and we intend them to serve as a starting point for achievable intermediate Green New Deal programs.
+	<p>This <em><b>Green New Deal Maximum Program</b></em> is a collection of evidence based, actionable proposals. As a Maximum Program, this set of ideas is highly ambitious; we hope they can serve as a starting point for achievable intermediate Green New Deal programs.
 	</p>
 
     <p> You are invited to join us at a <a href="https://www.facebook.com/events/410992476249334/">public presentation and townhall</a> to learn about the Green New Deal and get involved expanding it.
