@@ -6,8 +6,12 @@
         <h3>Download the Green New Deal (PDF)</h3>
       </a>
 
-      <a href="/Green New Deal Townhall Flyer.jpeg">
-        <h3>Townhall Event Flyer (JPG)</h3>
+      <a href="/flyer_front.jpg">
+        <h3>Townhall Event Flyer Front (JPG)</h3>
+      </a>
+
+      <a href="/flyer_reverse.jpg">
+        <h3>Townhall Event Flyer Reverse (JPG)</h3>
       </a>
     
       <a href="/Organizers launch Calgarys Green New Deal - Press Release.pdf">
