@@ -8,6 +8,7 @@
 	<li><nuxt-link to="/social-services">Social Services</nuxt-link></li>
 	<li><nuxt-link to="/transit">Transit</nuxt-link></li>
 	<li><nuxt-link to="/energy-sector">Energy Sector</nuxt-link></li>
+	<li><nuxt-link to="/city-council-proposals">City Council Proposals</nuxt-link></li>
 	<li><nuxt-link to="/additional-content">Additional Content</nuxt-link></li>
 	</ul>
 	</div>
