@@ -14,7 +14,7 @@
       2nd floor lecture hall<br>
     </p>
 
-	<p>You can read the program <nuxt-link to="/toc">online</nuxt-link>, or download the <a href="/yyc_gnd_mp.pdf">pdf</a></p>
+	<p>You can read the program <nuxt-link to="/toc">online</nuxt-link>, or download the <a href="/yyc_gnd_mp.pdf">pdf</a>.</p>
 
 	<!-- 
 	<img style="width: 100%;" src="/front_cover.svg"/>
