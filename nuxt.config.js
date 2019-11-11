@@ -34,7 +34,7 @@ export default {
       {
         hid: 'og:image',
         name: 'og:image',
-        content: "https://www.calgarygreennewdeal.ca/permeate_logo.png",
+        content: "https://www.calgarygreennewdeal.ca/windmills_and_buffalo.jpg",
       },
       {
         hid:'twitter:card',
@@ -54,7 +54,7 @@ export default {
       {
         hid:'twitter:image',
         name: 'twitter:image',
-        content: 'https://www.calgarygreennewdeal.ca/permeate_logo.png'
+        content: 'https://www.calgarygreennewdeal.ca/windmills_and_buffalo.jpg'
       },
     ],
     link: [
