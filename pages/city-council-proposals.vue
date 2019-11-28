@@ -62,7 +62,7 @@
 	<p><strong><span dir="ltr">We propose that the City of Calgary</span></strong></p>
 	<ul>
 	<li><blockquote>
-	<p><span dir="ltr"><strong>Converting the Transit Utility Corridor for agriculture production.</strong> This currently unused greenspace is maintained by mowing and herbicide use, costing an estimated $40 million per year. This land could be turned over to the surrounding communities with minimal costs. See a map of the corridor <a href="https://data.calgary.ca/Services-and-Amenities/Transportation-Utility-Corridor/hfu7-u9j5"><span class="underline">here</span></a>.</span></p>
+	<p><span dir="ltr"><strong>Converting the Transit Utility Corridor for agriculture production.</strong> This currently unused green space is maintained by mowing and herbicide use, costing an estimated $40 million per year. This land could be turned over to the surrounding communities with minimal costs. See a map of the corridor <a href="https://data.calgary.ca/Services-and-Amenities/Transportation-Utility-Corridor/hfu7-u9j5"><span class="underline">here</span></a>.</span></p>
 	</blockquote></li>
 	<li><blockquote>
 	<p><span dir="ltr"><strong>Incentivizing and allowing the conversion of lawns, boulevards, and unused lots into community garden spaces.</strong> This program would mitigate the issue of garden care for elderly or disabled persons who otherwise cannot maintain their yard space, promote prosocial community organization, and ensure access to nutritious food for the 1 in 8 Calgarians that are food insecure.</span></p>

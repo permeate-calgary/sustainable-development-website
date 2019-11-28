@@ -271,7 +271,7 @@
 <p>Small ruminants are grazers, controlling grasses and weeds without the use of herbicides that are toxic to birds<a href="#fn38" class="footnote-ref" id="fnref38" role="doc-noteref"><sup>38</sup></a> and amphibians.<a href="#fn39" class="footnote-ref" id="fnref39" role="doc-noteref"><sup>39</sup></a></p>
 </li>
 <li>
-<p>Goat weed-management projects have occured in Calgary parks since 2018.<a href="#fn40" class="footnote-ref" id="fnref40" role="doc-noteref"><sup>40</sup></a></p>
+<p>Goat weed-management projects have occurred in Calgary parks since 2018.<a href="#fn40" class="footnote-ref" id="fnref40" role="doc-noteref"><sup>40</sup></a></p>
 </li>
 <li>
 <p>Small ruminant keeping in Calgary is currently banned in Calgary, but loopholes exist for miniature goat keeping via support animal bylaws, but this requires a letter from a licensed psychologist or psychiatrist which overburdens our existing healthcare system.<a href="#fn41" class="footnote-ref" id="fnref41" role="doc-noteref"><sup>41</sup></a></p>

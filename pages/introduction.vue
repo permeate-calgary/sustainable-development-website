@@ -16,7 +16,7 @@
 		<p>The CO2 in the atmosphere <a href="https://techcrunch.com/2019/05/12/co2-in-the-atmosphere-just-exceeded-415-parts-per-million-for-the-first-time-in-human-history/">has already exceeded 415 ppm</a>, levels that were described as “the point of no return.”</p>
 		</li>
 		<li>
-		<p>According to <a href="https://www.ipcc.ch/reports/">IPCC reports</a>, carbon emissions must be reduced significantly by 2030, and globally we need to reach net-zero emissions by 2050 if we are to avoid warming in excess of 1.5 degrees Celsuis.</p>
+		<p>According to <a href="https://www.ipcc.ch/reports/">IPCC reports</a>, carbon emissions must be reduced significantly by 2030, and globally we need to reach net-zero emissions by 2050 if we are to avoid warming in excess of 1.5 degrees Celsius.</p>
 		</li>
 		<li>
 		<p>Without reduction in emissions and effective carbon sequestration we could see global temperatures increase by 4<sup>o</sup>C <a href="https://www.climatecentral.org/news/co2-hits-new-high-world-could-warm-7f-by-2060-15268">as early as 2060.</a></p>
@@ -73,7 +73,7 @@
 		<li><p>The Oil &amp; Gas Industry has controlled economic &amp; ecological narratives around climate change.</p>
 		<ul>
 		<li>
-		<p>It is uniquely responsible for <a href="https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/">obstuficating</a> and challenging attempts to convert to green energy.</p>
+		<p>It is uniquely responsible for <a href="https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/">obfuscating</a> and challenging attempts to convert to green energy.</p>
 		</li>
 		<li>
 		<p>The Oil &amp; Gas industry deserves intense criticism for its contribution to climate change and environmental destruction.</p>
