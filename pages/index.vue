@@ -16,8 +16,8 @@
     </p>
 	-->
 
+	<p>This is a living document: you can contribute to the document at our <a href="https://municipalgreennewdeal.miraheze.org/wiki/Main_Page">GND Maximum Program Wiki</a></p>
 	<p>You can read the program <nuxt-link to="/toc">online</nuxt-link>, or download the <a href="/yyc_gnd_mp.pdf">pdf</a>.</p>
-	<p>You can contribute to the document at our <a href="https://municipalgreennewdeal.miraheze.org/wiki/Main_Page">GND Maximum Program Wiki</a></p>
 
 	<!-- 
 	<img style="width: 100%;" src="/front_cover.svg"/>
